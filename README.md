@@ -36,15 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndiithi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndiithi&theme=buefy&layout=compact" />
 </a>
-
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="http://werisecorp.com/"><img alt="Website" </a>
-<a href="https://www.linkedin.com/in/duncan-ndiithi-b98879107/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:duncanndiithi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/duncanndiithi@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [Ndiithi](https://github.com/Ndiithi)
