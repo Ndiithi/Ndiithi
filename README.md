@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love quick hacks to solve problems as fast as possible, it's a fast world!.
-- 🌱 &nbsp; Design, Architect and Engineer robust efficient, fast systems.
+- 🌱 &nbsp; Design, Architect and Engineer robust and efficient systems.
 - ✍️ &nbsp; Investment books and real estate investor.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
