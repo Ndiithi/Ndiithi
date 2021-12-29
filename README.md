@@ -33,5 +33,5 @@
 
 <a href="https://github.com/Ndiithi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndiithi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndiithi&theme=buefy&layout=compact" />
+  
 </a>
